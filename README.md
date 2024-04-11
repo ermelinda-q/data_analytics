@@ -21,6 +21,7 @@ It opens the 'penguins.ipynb' notebook in [Google colab](https://colab.research.
 <a target="_blank" href="https://colab.research.google.com/github/ermelinda-q/data_analytics/blob/main/penguins.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 ## Get Help
 
 Where users can get help with this project...
