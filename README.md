@@ -1,7 +1,8 @@
 # Principles of Data Analytics - Project
 #### by Ermelinda Qejvani
 
-![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+***
+This README has been written with [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind
 
 ## About This Project
 
@@ -26,3 +27,5 @@ Who maintains and contributes to the project...
 ## About me
 
 I am a student at [ATU](https://www.atu.ie/).
+
+![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
