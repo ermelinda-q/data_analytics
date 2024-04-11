@@ -12,11 +12,11 @@ This project is about...
 
 Why this project is useful...
 
-## Getting Started
+## Get Started
 
 How users can get started with the project...
 
-## Getting Help
+## Get Help
 
 Where users can get help with this project...
 
@@ -24,7 +24,7 @@ Where users can get help with this project...
 
 Who maintains and contributes to the project...
 
-## About me
+## Author
 
 I am a student at [ATU](https://www.atu.ie/).
 
